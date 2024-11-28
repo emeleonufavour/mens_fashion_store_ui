@@ -1,6 +1,16 @@
-# fashion_ecommerce_ui
+# Men's Fashion Store Animation UI
 
-A new Flutter project.
+<!-- For displaying a static screenshot -->
+<!-- Make sure the path matches your image location -->
+<!-- If your screenshot is in assets/screenshot.png, use: -->
+
+## User Interface
+
+<p style="line-height: 0;">
+  <img src="assets/screenshot.png" width="400" style="vertical-align: top;" />
+  <img src="assets/output.gif" width="400" style="vertical-align: top;" />
+</p>
+
 
 ## Getting Started
 
