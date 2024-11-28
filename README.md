@@ -7,7 +7,6 @@
 ## User Interface
 
 <p style="line-height: 0;">
-  <img src="assets/screenshot.png" width="400" style="vertical-align: top;" />
   <img src="assets/output.gif" width="400" style="vertical-align: top;" />
 </p>
 
